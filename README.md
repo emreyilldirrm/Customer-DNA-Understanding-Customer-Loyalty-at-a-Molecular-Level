@@ -5,6 +5,7 @@ Proje Açıklaması:Customer DNA, RFM modeliyle müşteri davranışlarını der
 
 ![image](https://github.com/user-attachments/assets/4cdb4040-cc9d-4240-914c-2c8ed813dfdb)
 
+# Örnek Tahminler
 # "Champions" Segmentinin Önemi:
 Özellikler: "Champions" segmentindeki müşteriler, ortalama Recency değerinin en düşük (42.65) olduğu grupta yer alıyor, bu da onların çok yakın bir zamanda alışveriş yaptığını gösteriyor. Ayrıca bu segmentteki müşteriler yüksek sayıda (629 kişi) ve toplamda 252,767.09 birimlik bir harcama gerçekleştirmişler. Bu müşteriler aynı zamanda sadık müşteriler oldukları için düzenli harcama yapıyor ve işletme için yüksek bir değer taşıyor.
 Öneri: Bu segmenti korumak ve memnuniyetlerini artırmak için kişiselleştirilmiş kampanyalar, sadakat programları ve özel tekliflerle motive edilebilirler. Çünkü işletmeye en fazla katkıyı sağlayan bu müşteri grubunu kaybetmemek büyük önem taşıyor.
